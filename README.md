@@ -1,8 +1,8 @@
 1. 사이트(visualstudio.microsoft.com)에서 그림과 같이 'Community 2022'를 클릭한다.<br>
-![01](https://user-images.githubusercontent.com/49784035/181174251-ae13a577-f0d8-48c2-9862-7d2abf25930a.png)<br>
+![01](https://user-images.githubusercontent.com/49784035/181174251-ae13a577-f0d8-48c2-9862-7d2abf25930a.png)
 <br>
 2. 다운로드 한 파일을 더블 클릭한다.<br>
-![02](https://user-images.githubusercontent.com/49784035/181174255-99279213-7c3b-4d0d-b678-c7c38ee02266.png)<br>  
+![02](https://user-images.githubusercontent.com/49784035/181174255-99279213-7c3b-4d0d-b678-c7c38ee02266.png)
 ![03](https://user-images.githubusercontent.com/49784035/181174257-9e3dfc79-60f2-4552-a24a-4eddd45f3c08.png)
 ![04](https://user-images.githubusercontent.com/49784035/181174262-0ec91dec-fb5c-488b-a665-700fedc65b02.png)
 ![05](https://user-images.githubusercontent.com/49784035/181174265-720ed4e5-4776-40be-9ac0-18ca9814dd79.png)
