@@ -1,4 +1,4 @@
-## 1. 사이트(visualstudio.microsoft.com)에서 그림과 같이 'Community 2022'를 클릭한다.
+### 1. 사이트(visualstudio.microsoft.com)에서 그림과 같이 'Community 2022'를 클릭한다.
 ![01](https://user-images.githubusercontent.com/49784035/181176691-b8dff26a-cd7e-4bd8-892f-b5adf02e4537.png)   
 ### 2. 다운로드 받은 파일을 실행한 후 [계속]을 클릭한다.
 ![02](https://user-images.githubusercontent.com/49784035/181176695-3b1e174e-caea-4e7f-806e-2e050dc8f117.png)   
